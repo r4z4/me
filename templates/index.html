@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+  Various writings & projects.
+</h1>
+<p><a href="{{ get_url(path='@/blog/_index.md') }}">nlp runs</a></p>
+<p><a href="{{ get_url(path='@/elixir/_index.md') }}">elixir/erlang articles</a></p>
+<p><a href="{{ get_url(path='@/htmx/_index.md') }}">htmx articles</a></p>
+{% endblock content %}
