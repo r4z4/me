@@ -64,52 +64,56 @@
   .rsh {
     font-size: 50%;
   }
+
+  code {
+    line-height: normal;
+  }
   
-  .md-body table {
+  code table {
     font-size: 90%;
     font-family: 'Lucidia Console', Monaco, monospace;
     margin: auto;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
   }
   
-  .md-body tbody tr th:only-of-type {
+  code tbody tr th:only-of-type {
     vertical-align:middle;
   }
   
-  .md-body tbody tr th {
+  code tbody tr th {
     vertical-align:top;
   }
   
-  .md-body thead th {
+  code thead th {
     text-align:right;
   }
   
-  .md-body tbody tr:nth-child(odd) {
+  code tbody tr:nth-child(odd) {
     background-color: #fff;
   }
   
-  .md-body tbody tr:nth-child(even) {
+  code tbody tr:nth-child(even) {
     background-color: #eee;
   }
   
-  .md-body thead {
+  code thead {
     background-color: #333;
     color: white;
   }
   
-  .md-body tr {
+  code tr {
     text-align:right;
   }
   
-  .md-body td {
+  code td {
     padding: 0 5px;
   }
   
-  .mmd-body img {
+  code img {
     width: 75%;
   }
   
-  .md-body img[src$='#img-thumbnail'] { 
+  code img[src$='#img-thumbnail'] { 
     border:2px solid white;
     display: inherit;
     width: 30%;
@@ -117,7 +121,7 @@
     margin: 4% auto;
   }
   
-  .md-body img[src$='#md-img-bright'] { 
+  code img[src$='#md-img-bright'] { 
     display: inherit;
     width: 20%;
     height: auto;
@@ -125,20 +129,20 @@
     filter: brightness(0.6);
   }
   
-  .md-body img[src$='#md-img'] { 
+  code img[src$='#md-img'] { 
     display: inherit;
     width: 20%;
     height: auto;
     margin: 1% auto;
   }
   
-  .md-body img[src$='#md-img-inline'] { 
+  code img[src$='#md-img-inline'] { 
     display: inline;
     width: 20%;
     height: auto;
     margin: 1% auto;
   }
   
-  .md-body img[src$='#wordcloud'] { 
+  code img[src$='#wordcloud'] { 
     width: 30%;
   }
