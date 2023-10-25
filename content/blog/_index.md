@@ -1,6 +1,6 @@
 +++
-title = "List of blog posts"
+title = "nlp related posts"
 sort_by = "date"
-template = "blog.html"
-page_template = "blog-page.html"
+template = "article.html"
+page_template = "article-page.html"
 +++

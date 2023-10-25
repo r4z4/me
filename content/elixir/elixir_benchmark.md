@@ -1,6 +1,6 @@
 ---
 title: Benchmarking in Elixir Using Benchee (& Erlang)
-date: 2023-08-16
+date: 2023-08-01
 tags: elixir, benchmark, erlang
 group: elixir
 order: 1

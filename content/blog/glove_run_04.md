@@ -1,6 +1,6 @@
 ---
 title: GloVe Run 04
-date: 2023-08-16
+date: 2023-03-07
 tags: GloVe, NLP, embeddings
 group: glove
 order: 4
@@ -305,7 +305,7 @@ plt.xticks(rotation=90);
 ```
 ---
 
-![png](/assets/images/glove/run_04.png#img-thumbnail)
+![png](/images/glove/run_04.png#img-thumbnail)
 
 ### Custom Test
 

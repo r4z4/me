@@ -1,6 +1,6 @@
 ---
 title: GloVe Run 03
-date: 2023-08-16
+date: 2023-03-05
 tags: GloVe, NLP, embeddings
 group: glove
 order: 3
@@ -313,7 +313,7 @@ skplt.metrics.plot_confusion_matrix([target_categories[i] for i in y_test], [tar
 plt.xticks(rotation=90);
 ```
 
-![png](/assets/images/glove/run_03.png#img-thumbnail)
+![png](/images/glove/run_03.png#img-thumbnail)
 
 ### Custom Test
 

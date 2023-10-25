@@ -23,9 +23,9 @@ section p {
   line-height: 150%;
 }
 
-video, picture, img {
+/* video, picture, img {
   width: 100%;
-}
+} */
 
 p {
   margin-top: 0;
@@ -413,7 +413,7 @@ mark {
     width: 75%;
   }
   
-  code img[src$='#img-thumbnail'] { 
+  img[src$='#img-thumbnail'] { 
     border:2px solid white;
     display: inherit;
     width: 30%;
@@ -421,7 +421,7 @@ mark {
     margin: 4% auto;
   }
   
-  code img[src$='#md-img-bright'] { 
+  img[src$='#md-img-bright'] { 
     display: inherit;
     width: 20%;
     height: auto;
@@ -429,20 +429,20 @@ mark {
     filter: brightness(0.6);
   }
   
-  code img[src$='#md-img'] { 
+  img[src$='#md-img'] { 
     display: inherit;
     width: 20%;
     height: auto;
     margin: 1% auto;
   }
   
-  code img[src$='#md-img-inline'] { 
+  img[src$='#md-img-inline'] { 
     display: inline;
     width: 20%;
     height: auto;
     margin: 1% auto;
   }
   
-  code img[src$='#wordcloud'] { 
+  img[src$='#wordcloud'] { 
     width: 30%;
   }
