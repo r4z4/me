@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://r4z4.github.io/serum/</loc>
+        <loc>https://r4z4.github.io/me/</loc>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/blog/</loc>
+        <loc>https://r4z4.github.io/me/blog/</loc>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/blog/first/</loc>
+        <loc>https://r4z4.github.io/me/blog/first/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/blog/glove-run-01/</loc>
+        <loc>https://r4z4.github.io/me/blog/glove-run-01/</loc>
         <lastmod>2023-08-16</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/blog/glove-run-02/</loc>
+        <loc>https://r4z4.github.io/me/blog/glove-run-02/</loc>
         <lastmod>2023-08-16</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/blog/glove-run-03/</loc>
+        <loc>https://r4z4.github.io/me/blog/glove-run-03/</loc>
         <lastmod>2023-08-16</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/blog/glove-run-04/</loc>
+        <loc>https://r4z4.github.io/me/blog/glove-run-04/</loc>
         <lastmod>2023-08-16</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/blog/second/</loc>
+        <loc>https://r4z4.github.io/me/blog/second/</loc>
         <lastmod>2019-11-28</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/elixir/</loc>
+        <loc>https://r4z4.github.io/me/elixir/</loc>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/elixir/elixir-benchmark/</loc>
+        <loc>https://r4z4.github.io/me/elixir/elixir-benchmark/</loc>
         <lastmod>2023-08-16</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/elixir/elixir-concuerror/</loc>
+        <loc>https://r4z4.github.io/me/elixir/elixir-concuerror/</loc>
         <lastmod>2023-08-16</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/elixir/elixir-zipwith/</loc>
+        <loc>https://r4z4.github.io/me/elixir/elixir-zipwith/</loc>
         <lastmod>2023-08-16</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/elixir/first/</loc>
+        <loc>https://r4z4.github.io/me/elixir/first/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/htmx/</loc>
+        <loc>https://r4z4.github.io/me/htmx/</loc>
     </url>
     <url>
-        <loc>https://r4z4.github.io/serum/htmx/first/</loc>
+        <loc>https://r4z4.github.io/me/htmx/first/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
 </urlset>
