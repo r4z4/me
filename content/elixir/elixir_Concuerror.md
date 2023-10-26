@@ -7,7 +7,7 @@ order: 3
 --- 
 
 ---
-![png](/images/elixir/Concuerror.png#md-img-bright)
+![png](/me/images/elixir/Concuerror.png#md-img-bright)
 
 ---
 
