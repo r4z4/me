@@ -44,4 +44,23 @@
         <loc>https://r4z4.github.io/me/htmx/inline-scripting/</loc>
         <lastmod>2023-10-16</lastmod>
     </url>
+    <url>
+        <loc>https://r4z4.github.io/me/trec/</loc>
+    </url>
+    <url>
+        <loc>https://r4z4.github.io/me/trec/trec-aug/</loc>
+        <lastmod>2023-07-02</lastmod>
+    </url>
+    <url>
+        <loc>https://r4z4.github.io/me/trec/trec-eda/</loc>
+        <lastmod>2023-06-29</lastmod>
+    </url>
+    <url>
+        <loc>https://r4z4.github.io/me/trec/trec-run-01/</loc>
+        <lastmod>2023-07-06</lastmod>
+    </url>
+    <url>
+        <loc>https://r4z4.github.io/me/trec/trec-run-02/</loc>
+        <lastmod>2023-07-07</lastmod>
+    </url>
 </urlset>
