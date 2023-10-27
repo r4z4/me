@@ -8,4 +8,103 @@
 <p><a href="{{ get_url(path='@/trec/_index.md') }}">nlp/trec dataset runs</a></p>
 <p><a href="{{ get_url(path='@/elixir/_index.md') }}">elixir/erlang articles</a></p>
 <p><a href="{{ get_url(path='@/htmx/_index.md') }}">htmx articles</a></p>
+
+<div class="projects">
+  <h2>projects</h2>
+  <ul class="projects_ul">
+    <li>
+      <details>
+        <summary>elixir</summary>
+          <ul class="cat_ul">
+            <li>
+              <h2>trivia</h2>
+              <img src="/images/projects/surface_trivia.png" />
+              <p>trivia game implemented in phoenix liveview with surface ui library. surface uses a component model that is a little more react-like than typical liveview template syntax.</p>
+            </li>
+            <li>
+              <h2>quick ui</h2>
+              <img src="/images/projects/quick_ui.png" />
+              <p>a simple ui for any group or organization. Sub in any remote or local data to display by details and sort via tags. created with vue.js.</p>
+            </li>
+          </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>rust</summary>
+          <ul class="cat_ul">
+            <li>
+              <h2>rust wasm</h2>
+              <img src="/images/projects/rust_wasm.png" />
+            </li>
+            <li>
+              <h2>giraffe game</h2>
+              <img src="/images/projects/giraffe_game.png" />
+            </li>
+          </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>elm</summary>
+          <ul class="cat_ul">
+            <li>
+              <h2>elm monster game</h2>
+              <img src="/images/projects/monster_game.png" />
+              <p>a more appropriate version of the hangman game written in elm. it really is a delightful front end language.</p>
+            </li>
+            <li>
+              <h2>test your typing</h2>
+              <img src="/images/projects/scramble.png" />
+              <p>a typing exercise/brain teaser written in elm. working on getting a better api.</p>
+            </li>
+            <li>
+              <h2>elm memory game</h2>
+              <img src="/images/projects/memory_game.png" />
+              <p>the classic memory game with cards for various categories. made with elm 0.19.</p>
+            </li>
+          </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>python</summary>
+          <ul class="cat_ul">
+            <li>
+              <h2>crime predictor</h2>
+              <img src="/images/projects/crime.png" />
+              <p>crime predictor service for greater chicago. runs predictions on a regression model trained from city of chicago crime statistics. served up using flask frontend. model trained using tensorflow.</p>
+            </li>
+          </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>react/vue</summary>
+          <ul class="cat_ul">
+            <li>
+              <h2>city api</h2>
+              <img src="/images/projects/city_api.png" />
+              <p>a simple city explorer app to fetch weather data and forecasts and Teleport city info for urban areas. utilizes two RESTful API services and served up via react on the frontend. **NOTE: Troposphere has ended their api services - using a temp API until I can find a better one. open to suggestions :) ****</p>
+            </li>
+            <li>
+              <h2>front page</h2>
+              <img src="/images/projects/front_page.png" />
+              <p>newspaper front page generator app. spa done with react. its pretty bad but its one of my first react projects, and in general a concept that i like and keep telling myself i will return to. so it stays! still looking for the batman spinning newspaper headline audio clip too.</p>
+            </li>
+            <li>
+              <h2>extrev pern</h2>
+              <img src="/images/projects/extrev_pern.png" />
+              <p>a pern stack app mimicking commercial approaches to case management, in this case healthcare appeals. PostgreSQL for database, node & express as backend and served via react. app enables authorization via a third party service, keycloak, although currently disabled to allow unauthorized access.</p>
+            </li>
+            <li>
+              <h2>sarpy stats</h2>
+              <img src="/images/projects/sarpy.png" />
+              <p>a simple data visualization project for a local housing authority agency. created with recharts library using housing data provided by the agency.</p>
+            </li>
+          </ul>
+      </details>
+    </li>
+  </ul>
+</div>
 {% endblock content %}

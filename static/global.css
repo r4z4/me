@@ -446,3 +446,19 @@ mark {
   img[src$='#wordcloud'] { 
     width: 30%;
   }
+
+  .projects ul {
+    list-style-type: none;
+  }
+
+  .projects_ul li {
+    padding: 0.5em 0;
+  }
+
+  .cat_ul {
+    text-align: center;
+  }
+
+  .projects img {
+    max-width: 400px;
+  }
