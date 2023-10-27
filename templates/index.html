@@ -2,15 +2,20 @@
 
 {% block content %}
 <h1 class="title">
-  Various writings & projects.
+  writings & projects.
 </h1>
-<p><a href="{{ get_url(path='@/blog/_index.md') }}">nlp runs</a></p>
-<p><a href="{{ get_url(path='@/trec/_index.md') }}">nlp/trec dataset runs</a></p>
-<p><a href="{{ get_url(path='@/elixir/_index.md') }}">elixir/erlang articles</a></p>
-<p><a href="{{ get_url(path='@/htmx/_index.md') }}">htmx articles</a></p>
+
+<div class="writings">
+  <h2 class="header">writings.</h2>
+  <p><a href="{{ get_url(path='@/blog/_index.md') }}">nlp runs</a></p>
+  <p><a href="{{ get_url(path='@/trec/_index.md') }}">nlp/trec dataset runs</a></p>
+  <p><a href="{{ get_url(path='@/topic_modeling/_index.md') }}">topic modeling</a></p>
+  <p><a href="{{ get_url(path='@/elixir/_index.md') }}">elixir/erlang articles</a></p>
+  <p><a href="{{ get_url(path='@/htmx/_index.md') }}">htmx articles</a></p>
+</div>
 
 <div class="projects">
-  <h2>projects</h2>
+  <h2 class="header">projects.</h2>
   <ul class="projects_ul">
     <li>
       <details>

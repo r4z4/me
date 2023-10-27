@@ -465,3 +465,16 @@ mark {
     filter: brightness(90%);
     box-shadow:1px 1px 10px 2px #888888;
   }
+
+  .header {
+    text-align: left;
+    text-indent: 5em;
+  }
+
+  .title {
+    color:rgb(199, 158, 199);
+  }
+
+  .article_li {
+    padding: 0.5em;
+  }
