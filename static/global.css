@@ -461,4 +461,7 @@ mark {
 
   .projects img {
     max-width: 400px;
+    border-radius: 15px;
+    filter: brightness(90%);
+    box-shadow:1px 1px 10px 2px #888888;
   }
